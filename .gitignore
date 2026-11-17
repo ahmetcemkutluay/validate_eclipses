@@ -8,6 +8,7 @@ test_files/
 analysis/
 personal_access_token.txt
 
+fits/
 lcs/
 records.csv
 decisions*.csv

@@ -1,0 +1,10 @@
+# Pinned to the environment this pipeline was developed and run on.
+# Python 3.11.15
+
+PyQt5==5.15.11
+matplotlib==3.11.1
+pandas==2.3.3
+astropy==8.0.1
+numpy==2.4.6
+
+
