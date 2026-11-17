@@ -12,7 +12,7 @@ This will activate the GUI and displays the light curve of your available target
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/gui_example.png">
-    <img alt="search_eclipses" src="assets/logo-light.svg" width="440">
+    <img alt="search_eclipses" src="assets/logo-light.svg" width="750">
   </picture>
 </p>
 
