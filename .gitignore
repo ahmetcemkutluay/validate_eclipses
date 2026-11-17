@@ -1,0 +1,17 @@
+#ignore edilecek dosyalar
+lightcurves/
+test/
+status/
+shards/
+results/
+test_files/
+analysis/
+personal_access_token.txt
+
+lcs/
+records.csv
+decisions*.csv
+*.log
+
+plots/
+test_results/
