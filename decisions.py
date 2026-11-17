@@ -10,7 +10,8 @@ verdicts = ["accept", "reject", "uncertain"]
 Flags = {"period_fix":  "period_fix",
     "phase_fix":   "phase_fix",
     "not_eclipse": "not_eclipse",
-    "bad_data":    "bad_data"}
+    "bad_data":    "bad_data",
+    "additional_variabilities": "additional_variabilities"}
 
 columns = ["tic", "sectors", "verdict", "period_factor", "period_label", "phase_offset", "flags", "note", "comments", "timestamp"]
 

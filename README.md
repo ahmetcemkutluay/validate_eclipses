@@ -34,6 +34,7 @@ I briefly describe what keyboard shortcuts do below.
 | `F5` | phase will be fixed according to the changes you make, similar effects with period|
 | `F6` | flag the target if there is no eclipse seen or detected |
 | `F7` | flag the target if the quality of data is relatively low|
+| `F8` | flag any other variabilities within light curve such as higher order multiplicity, pulsations, systematics |
 | `← →` |  allows to move between objects without making any changes |
 | `↑ ↓` |  change the period of phased light curves by multiple ratios of P. Available settings: P/4, P/3, P/2, P, 2P, 3P, 4P|
 | `[` & `]` | allows to shift the phase by 0.005 steps of phase units|

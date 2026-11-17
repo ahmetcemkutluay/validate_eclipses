@@ -58,7 +58,7 @@ default_factor = 3 #index of default P factor.
 
 verdict_keys = {"F1": "accept", "F2": "reject", "F3": "uncertain"}
 
-flag_keys = {"F4": "period_fix", "F5": "phase_fix", "F6": "not_eclipse", "F7": "bad_data"}
+flag_keys = {"F4": "period_fix", "F5": "phase_fix", "F6": "not_eclipse", "F7": "bad_data", "F8": "additional_variabilities"}
 
 verdict_colors = {"accept": "#1f7d49", "reject": "#bf3411" , "uncertain": "#915413"}
 
